@@ -1,5 +1,9 @@
 # English
 
+## Authors
+- **Nicolas Montovani**  
+- **Daniel Reis**
+
 # Fraud Analysis with Neo4j
 
 This project implements a **financial transactions graph** using Neo4j, aiming to identify fraud patterns.
@@ -11,10 +15,6 @@ This project implements a **financial transactions graph** using Neo4j, aiming t
 - `scripts/04_set_attributes.cypher` → setting additional attributes for merchants, customers and transactions
 - `data/fraud.csv` → dataset used
 
-## Authors
-- **Nicolas Montovani**  
-- **Daniel Reis**
-
 ## Graph Diagram
 ![Graph Diagram](images/graph_diagram.png)
 
@@ -24,6 +24,10 @@ This project implements a **financial transactions graph** using Neo4j, aiming t
 ---
 
 # Português
+
+## Autores
+- **Nicolas Montovani**  
+- **Daniel Reis**
 
 # Análise de Fraudes com Neo4j
 
@@ -35,10 +39,6 @@ Este projeto implementa um **grafo de transações financeiras** utilizando o Ne
 - `scripts/03_create_relationships.cypher` → relacionamentos entre merchants, transações, países, moedas e clientes
 - `scripts/04_set_attributes.cypher` → definição de atributos adicionais para merchants, customers e transações
 - `data/fraud.csv` → dataset utilizado
-
-## Autores
-- **Nicolas Montovani**  
-- **Daniel Reis**
 
 ## Diagrama do Grafo
 ![Diagrama do Grafo](images/graph_diagram.png)
