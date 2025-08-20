@@ -1,3 +1,5 @@
+#English
+
 # Fraud Analysis with Neo4j
 
 This project implements a **financial transactions graph** using Neo4j, aiming to identify fraud patterns.
@@ -14,10 +16,14 @@ This project implements a **financial transactions graph** using Neo4j, aiming t
 - **Daniel Reis**
 
 ## Graph Diagram
-
+![Graph Diagram](images/graph_diagram.png)
 
 ## Neo4j Visualization Example
+![Neo4j Visualization Example](images/visualization_example.png)
 
+---
+
+#Português
 
 # Análise de Fraudes com Neo4j
 
@@ -35,7 +41,7 @@ Este projeto implementa um **grafo de transações financeiras** utilizando o Ne
 - **Daniel Reis**
 
 ## Diagrama do Grafo
-
+![Diagrama do Grafo](images/graph_diagram.png)
 
 ## Exemplo de Visualização no Neo4j
-
+![Exemplo de Visualização no Neo4j](images/visualization_example.png)
