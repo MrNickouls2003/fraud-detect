@@ -1,4 +1,4 @@
-#English
+# English
 
 # Fraud Analysis with Neo4j
 
@@ -23,7 +23,7 @@ This project implements a **financial transactions graph** using Neo4j, aiming t
 
 ---
 
-#Português
+# Português
 
 # Análise de Fraudes com Neo4j
 
